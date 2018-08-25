@@ -1,2 +1,2 @@
-# js-huangshan-3day
-黄山三日游
+# js-sh
+海洋馆一日游
